@@ -340,10 +340,10 @@ Coordinating and scheduling complex data pipelines.
 These tools work together in the modern data stack:
 
 1. **Ingestion**: Airbyte/Fivetran → Snowflake
-1. **Transformation**: dbt within Snowflake
-1. **Orchestration**: Airflow/Dagster coordinates the pipeline
-1. **Quality**: Great Expectations/Soda validates data
-1. **Analysis**: Pandas/Polars for custom processing
+2. **Transformation**: dbt within Snowflake
+3. **Orchestration**: Airflow/Dagster coordinates the pipeline
+4. **Quality**: Great Expectations/Soda validates data
+5. **Analysis**: Pandas/Polars for custom processing
 
 ______________________________________________________________________
 
