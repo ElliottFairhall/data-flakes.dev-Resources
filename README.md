@@ -9,11 +9,31 @@ ______________________________________________________________________
 
 ## Table of Contents
 
+- [Featured Projects](#featured-projects)
 - [Snowflake Resources](#snowflake-resources)
 - [dbt (Data Build Tool)](#dbt-data-build-tool)
 - [Data Quality Tools](#data-quality-tools)
 - [Python Data Engineering Libraries](#python-data-engineering-libraries)
 - [Modern Data Stack Tools](#modern-data-stack-tools)
+
+## Featured Projects
+
+A selection of end-to-end data engineering projects demonstrating the practical application of the modern data stack.
+
+### [TechTrend Database](https://github.com/ElliottFairhall/techtrend-database) 🏬
+
+A production-grade Snowflake data warehouse for a technology retailer. Features medallion architecture, Kimball
+dimensional modelling (SCD Type 2), and automated ETL orchestration.
+
+### [London Lions Analytics](https://github.com/ElliottFairhall/london-lions-analytics) 🦁
+
+High-ambition Snowflake analytics platform for a professional sports club. Implements automated Python/Kaggle ingestion,
+MD5 change detection, and a Single Player View (SPV) scouting dashboard.
+
+### [SecureLife Database](https://github.com/ElliottFairhall/securelife-database) 🛡️
+
+Single Customer View (SCV) implementation for the insurance sector. Focuses on cross-product data integration, robust
+data governance, and UK-specific fiscal standardisation.
 
 ______________________________________________________________________
 
