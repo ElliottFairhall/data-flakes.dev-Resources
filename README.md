@@ -1,5 +1,7 @@
 # Data Engineering Resources
 
+> Architecture and design rationale: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)
+
 ![Snowflake Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGtsjtT26xLbvGO_eRAcJJ2drgv6wC9S7REQ&s)
 
 A curated collection of essential resources for modern data engineering, covering Snowflake, dbt, data quality tools,
